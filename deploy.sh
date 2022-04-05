@@ -6,7 +6,7 @@ set -e
 #备份
 git add -A
 git commit -m "commit"
-git push github master
+git push -f github master
 # 生成静态文件
 npm run build
 

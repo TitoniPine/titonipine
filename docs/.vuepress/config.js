@@ -28,7 +28,7 @@ module.exports = {
         ]
       },
       {
-        text: '框架', link: '/pages/a20ce8/', items: [
+        text: '框架', link: '/pages/ce6c78/', items: [
         ]
       },
       { text: '工具', link: '/pages/db78e2/' },
